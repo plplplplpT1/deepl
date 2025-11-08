@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58d2c20a.css",
+    "main.js": "/static/js/main.e55ed130.js",
+    "runtime.js": "/static/js/runtime.00f9bb3e.js",
+    "document.js": "/static/js/document.b4cfb0e1.chunk.js",
+    "text.js": "/static/js/text.e7946eb6.chunk.js",
+    "react-vendor.js": "/static/js/react-vendor.7ea62ed6.js",
+    "radix-ui.js": "/static/js/radix-ui.51dfda98.chunk.js",
+    "framer-motion.js": "/static/js/framer-motion.73b26c91.chunk.js",
+    "vendors.js": "/static/js/vendors.54c5c66e.js",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime.00f9bb3e.js",
+    "static/js/react-vendor.7ea62ed6.js",
+    "static/js/vendors.54c5c66e.js",
+    "static/css/main.58d2c20a.css",
+    "static/js/main.e55ed130.js"
+  ]
+}
